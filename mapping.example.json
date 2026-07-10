@@ -1,0 +1,24 @@
+{
+  "Contoso Website/App": {
+    "Support/Maintenance": {
+      "keitoClient": "Northwind Agency",
+      "keitoProject": "Contoso",
+      "keitoTask": "Support"
+    },
+    "SEO help": {
+      "keitoClient": "Northwind Agency",
+      "keitoProject": "Contoso",
+      "keitoTask": "SEO"
+    },
+    "Lead forms on series pages": {
+      "keitoClient": "Northwind Agency",
+      "keitoProject": "Contoso",
+      "keitoTask": "Lead forms"
+    },
+    "Cookie consent upgrade": {
+      "keitoClient": "Northwind Agency",
+      "keitoProject": "Contoso",
+      "keitoTask": "Cookie"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+
+# Client-specific mapping (may reveal a client's project structure)
+mapping.json
+
+# Keito browser sink — live session + dedup state
+.keito-auth.json
+.keito-pushed.json
+
+# Build + deps
+node_modules/
+dist/
+
+# Captured probe output / scratch
+*.raw.json
+day.json
+
+# OS / editor
+.DS_Store
+*.log
